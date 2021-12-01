@@ -37,7 +37,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 153.8, y: 38}
-  m_SizeDelta: {x: 195.58575, y: 195.58575}
+  m_SizeDelta: {x: 75, y: 75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6815180275416683761
 CanvasRenderer:
@@ -67,7 +67,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: aac4790b7b9eb1f4e925b0cb1c068e96, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a7de485c90195eb46a35d4e092507e16, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -90,7 +90,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   secToDestroy: 0
-  gameManager: {fileID: 5203536655904683218, guid: fba1d3c46c0b2304182d744d4ef1d4c7, type: 3}
 --- !u!61 &6815180275416683767
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -115,5 +114,5 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 197.03412, y: 196.09549}
+  m_Size: {x: 75, y: 75}
   m_EdgeRadius: 0

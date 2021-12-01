@@ -10,7 +10,6 @@ public class GameManager : MonoBehaviour
     public GameObject objCounter;
     public GameObject WonObj;
     public GameObject shootSound;
-
     private Text textCounter;
     private bool won;
     private int score;
